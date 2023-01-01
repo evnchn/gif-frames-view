@@ -1,5 +1,7 @@
 # GIF frames view
 
+![Demo](cover.png)
+
 Allows you to extract frames in a GIF and detect duplicates
 
 Drag and drop the file onto drag-n-drop.bat or do frames-view.py [YOUR_FILE]
